@@ -1,6 +1,6 @@
 ### Seja bem vindo! 👋
 🔭 Hoje estou trabalhando com Java, PL-SQL
-🔭 Hoje estou trabalhando com Java, PL-SQL
+
 <!--
 
 - 
